@@ -1,1 +1,1 @@
-# digital_student_assistant
+# Цифровой ассистент студента
